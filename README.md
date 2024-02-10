@@ -1,30 +1,36 @@
-# React + TypeScript + Vite
+# Teste Front-end JR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma tela de ecommerce com modal e recebe as informações de um JSON
 
-Currently, two official plugins are available:
+## Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React + Vite
+- Typescript
+- Saas
 
-## Expanding the ESLint configuration
+## Pré-requisitos
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Antes de começar, certifique-se de que você tem [Node.js](https://nodejs.org/) instalado na sua máquina.
 
-- Configure the top-level `parserOptions` property like this:
+## Instalação
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+Para rodar este projeto localmente, siga estas etapas.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+### Clonar o repositório
+
+Primeiro, clone o repositório para a sua máquina local usando o seguinte comando no terminal:
+
+      ```bash
+      git clone https://github.com/DiogaoxL/teste-front-end-jr.git
+
+Dentro da pasta baixe as dependências do Node:
+
+       ```bash
+        npm install
+
+## Uso
+
+Para inicializar o projeto em sua máquina basta digitar o comando e clicar no link gerado no console:
+
+        ```bash
+        npm run dev
