@@ -1,6 +1,6 @@
-# Título do projeto
+# Teste Front end Jr
 
-Um parágrafo da descrição do projeto vai aqui
+Uma página de um Ecommerce que possui modal assim que clica em algum produto e esses produtos estão vindo de uma api externa.
 
 ## 📋 Pré-requisitos
 
