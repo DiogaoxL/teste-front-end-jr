@@ -1,25 +1,56 @@
-# Teste Front-end JR
+# Título do projeto
 
-Este projeto é uma tela de ecommerce que exibe um modal e recebe informações a partir de um arquivo JSON.
+Um parágrafo da descrição do projeto vai aqui
 
-## Tecnologias Utilizadas
+## 📋 Pré-requisitos
 
-- React + Vite
-- TypeScript
-- Sass
-
-## Pré-requisitos
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 Antes de começar, certifique-se de que você tem [Node.js](https://nodejs.org/) instalado na sua máquina.
 
-## Instalação
 
-Para rodar este projeto localmente, siga estas etapas.
+### 🔧 Instalação
 
-### Clonar o repositório
+Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
-Primeiro, clone o repositório para a sua máquina local usando o seguinte comando no terminal:
+Diga como essa etapa será clonar o repositorio:
 
-```bash
+```
 git clone https://github.com/DiogaoxL/teste-front-end-jr.git
+```
+
+
+## ⚙️ Instalar dependências
+
+Após clonar o repositório, navegue até o diretório do projeto:
+
+```
+cd teste-front-end-jr
+```
+Então, instale as dependências do projeto:
+
+```
+npm install
+
+```
+
+
+### Uso
+
+Para inicializar o projeto na sua máquina, execute o seguinte comando no terminal:
+
+```
+npm run dev
+```
+
+
+## 🛠️ Construído com
+
+
+* [React](https://react.dev)
+* [Vite](https://vitejs.dev) 
+* [Typescript](https://www.typescriptlang.org) 
+* [Saas](https://sass-lang.com) 
+
+
 
