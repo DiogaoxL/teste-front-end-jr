@@ -11,9 +11,7 @@ Antes de começar, certifique-se de que você tem [Node.js](https://nodejs.org/)
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será clonar o repositorio:
+Essa etapa será clonar o repositorio:
 
 ```
 git clone https://github.com/DiogaoxL/teste-front-end-jr.git
