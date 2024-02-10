@@ -1,12 +1,12 @@
 # Teste Front-end JR
 
-Uma tela de ecommerce com modal e recebe as informações de um JSON
+Este projeto é uma tela de ecommerce que exibe um modal e recebe informações a partir de um arquivo JSON.
 
 ## Tecnologias Utilizadas
 
 - React + Vite
-- Typescript
-- Saas
+- TypeScript
+- Sass
 
 ## Pré-requisitos
 
@@ -20,17 +20,6 @@ Para rodar este projeto localmente, siga estas etapas.
 
 Primeiro, clone o repositório para a sua máquina local usando o seguinte comando no terminal:
 
-      ```bash
-      git clone https://github.com/DiogaoxL/teste-front-end-jr.git
+```bash
+git clone https://github.com/DiogaoxL/teste-front-end-jr.git
 
-Dentro da pasta baixe as dependências do Node:
-
-       ```bash
-        npm install
-
-## Uso
-
-Para inicializar o projeto em sua máquina basta digitar o comando e clicar no link gerado no console:
-
-        ```bash
-        npm run dev
